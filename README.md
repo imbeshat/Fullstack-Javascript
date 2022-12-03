@@ -1,2 +1,2 @@
 # Fullstack-Javascript
-## Contains links and files related to fullstack javascript
+## Contains links of article repo, projects, and practice files related to fullstack javascript.
