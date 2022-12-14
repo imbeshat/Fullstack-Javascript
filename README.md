@@ -22,6 +22,7 @@
 -   [Project04-Headphones](https://github.com/imbeshat/Project04-Headphones)
 -   [Project05-Medical](https://github.com/imbeshat/Project05-Medical)
 -   [Project06-Justice](https://github.com/imbeshat/Project06-Justice)
+-   [Project08-Credit-Card](https://github.com/imbeshat/Project08-Credit-Card)
 
 ### Tailwind CSS Projects
 
