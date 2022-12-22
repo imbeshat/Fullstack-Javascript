@@ -24,6 +24,7 @@
 -   [Project06-Justice](https://github.com/imbeshat/Project06-Justice)
 -   [Project08-Credit-Card](https://github.com/imbeshat/Project08-Credit-Card)
 -   [Project09-Hosting-Site](https://github.com/imbeshat/Project09-Hosting-Site)
+-   [Project10-Gaming-Landing-Page](https://github.com/imbeshat/Project10-Gaming-Landing-Page)
 
 ### Tailwind CSS Projects
 
