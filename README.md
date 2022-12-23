@@ -14,6 +14,9 @@
 
 -   [Link to Repo](https://github.com/imbeshat/Javascript-Bootcamp-CSS)
 
+### JS Practice
+-   [Link to Repo](https://github.com/imbeshat/JavaScript-Bootcamp-JS)
+
 ### HTML and CSS Projects
 
 -   [Project01-SEO-Master](https://github.com/imbeshat/Project01-SEO-Master)
