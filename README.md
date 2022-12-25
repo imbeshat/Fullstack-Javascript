@@ -28,6 +28,7 @@
 -   [Project08-Credit-Card](https://github.com/imbeshat/Project08-Credit-Card)
 -   [Project09-Hosting-Site](https://github.com/imbeshat/Project09-Hosting-Site)
 -   [Project10-Gaming-Landing-Page](https://github.com/imbeshat/Project10-Gaming-Landing-Page)
+-   [Project11-Real-Estate-Landing-Page](https://github.com/imbeshat/Project11-Real-Estate-Landing-Page)
 
 ### Tailwind CSS Projects
 
