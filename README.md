@@ -8,7 +8,7 @@
 
 ### HTML Practice
 
--   [Link to Repo](https://github.com/imbeshat/Javascript-Bootcamp)
+-   [Link to Repo](https://github.com/imbeshat/Javascript-Bootcamp-HTML)
 
 ### CSS Practice
 
