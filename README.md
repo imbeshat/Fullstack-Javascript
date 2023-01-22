@@ -20,6 +20,9 @@
 ### JS Assignment
 -   [Link to Repo](https://github.com/imbeshat/JavaScript-Assignmrnt)
 
+### JS Assignment Part2 - Create a circle with random colors on clicking on the web page
+-   [Link to Repo](https://github.com/imbeshat/JS-Simple-Assignment)
+
 ### HTML and CSS Projects
 
 -   [Project01-SEO-Master](https://github.com/imbeshat/Project01-SEO-Master)
