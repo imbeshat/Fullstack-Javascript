@@ -20,8 +20,9 @@
 ### JS Assignment
 -   [Link to Repo](https://github.com/imbeshat/JavaScript-Assignmrnt)
 
-### JS Assignment Part2 - Create a circle with random colors on clicking on the web page
--   [Link to Repo](https://github.com/imbeshat/JS-Simple-Assignment)
+<hr/>
+
+## Projects
 
 ### HTML and CSS Projects
 
@@ -41,3 +42,6 @@
 ### Tailwind CSS Projects
 
 -   [Project07-VSCode-Clone-TailwindCSS](https://github.com/imbeshat/Project07-VSCode-Clone-TailwindCSS)
+
+### JavaScript Projects
+-   [Project14-Circle-Generator-JS](https://github.com/imbeshat/Project14-Circle-Generator-JS)
