@@ -46,3 +46,4 @@
 ### JavaScript Projects
 -   [Project14-Circle-Generator-JS](https://github.com/imbeshat/Project14-Circle-Generator-JS)
 -   [Project15-RandomColor-Generator-JS](https://github.com/imbeshat/Project15-RandomColor-Generator-JS)
+-   [Project16-Shopping-List-JS](https://github.com/imbeshat/Project16-Shopping-List-JS)
