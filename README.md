@@ -3,15 +3,12 @@
 ## Contains links of article repo, projects, and practice files related to fullstack javascript.
 
 ### Article
-
 -   [Link to Repo](https://github.com/imbeshat/article/blob/master/README.md)
 
 ### HTML Practice
-
 -   [Link to Repo](https://github.com/imbeshat/Javascript-Bootcamp-HTML)
 
 ### CSS Practice
-
 -   [Link to Repo](https://github.com/imbeshat/Javascript-Bootcamp-CSS)
 
 ### JS Practice
@@ -20,6 +17,8 @@
 ### JS Assignment
 -   [Link to Repo](https://github.com/imbeshat/JavaScript-Assignmrnt)
 
+### JavaScript-DOM-Assignment
+-   [Link to Repo](https://github.com/imbeshat/JavaScript-DOM-Assignment)
 <hr/>
 
 ## Projects
