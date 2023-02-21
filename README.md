@@ -20,6 +20,9 @@
 
   - ### JavaScript-DOM-Assignment
       - [Link to Repo](https://github.com/imbeshat/JavaScript-DOM-Assignment)
+      
+### React Practice
+- [Link to Repo](https://github.com/imbeshat/JavaScript-Bootcamp-React)
 <hr/>
 
 ## Projects
@@ -48,3 +51,5 @@
 - [Project15-RandomColor-Generator-JS](https://github.com/imbeshat/Project15-RandomColor-Generator-JS)
 - [Project16-Shopping-List-JS](https://github.com/imbeshat/Project16-Shopping-List-JS)
 - [Project17-Weather-App-JS](https://github.com/imbeshat/Project17-Weather-App-JS)
+
+### React Projects
