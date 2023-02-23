@@ -53,3 +53,4 @@
 - [Project17-Weather-App-JS](https://github.com/imbeshat/Project17-Weather-App-JS)
 
 ### React Projects
+- [Project18-Todo-App-React](https://github.com/imbeshat/project18-todo-app-react)
