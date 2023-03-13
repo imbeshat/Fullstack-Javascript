@@ -55,3 +55,5 @@
 ### React Projects
 - [Project18-Todo-App-React](https://github.com/imbeshat/project18-todo-app-react)
 - [Project19-Rock-Paper-Scissors-React](https://github.com/imbeshat/project19-rock-paper-scissors-react)
+- [Project20-Meal-DB-React](https://github.com/imbeshat/project20-meal-db-react)
+- [Project21-pokemon-api-react](https://github.com/imbeshat/project21-pokemon-api-react)
